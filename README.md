@@ -1,4 +1,4 @@
-# JLCPCB-LED-Rings
+# LED Pigtail Rings- with JLCPCB
 LED Rings that can be worn in hair or as a jewelry.
 
 See:
