@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:14:42 PM On 6/3/2019
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [PCB5v2.PcbDoc]
+   Generated File[PCB5v2.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:14:47 PM On 6/3/2019

@@ -1,0 +1,26 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:14:19 PM On 6/3/2019
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [PCB5v2.PcbDoc]
+   Generated File[PCB5v2.GTO]
+   Generated File[PCB5v2.GTP]
+   Generated File[PCB5v2.GTS]
+   Generated File[PCB5v2.GTL]
+   Generated File[PCB5v2.GBL]
+   Generated File[PCB5v2.GBS]
+   Generated File[PCB5v2.GBP]
+   Generated File[PCB5v2.GBO]
+   Generated File[PCB5v2.GKO]
+   Generated File[PCB5v2.GPT]
+   Generated File[PCB5v2.GPB]
+   Generated File[PCB5v2.EXTREP]
+   Generated File[PCB5v2.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:14:20 PM On 6/3/2019
